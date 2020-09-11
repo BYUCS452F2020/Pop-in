@@ -1,0 +1,9 @@
+I hear this Jacob guy is pretty cool, I dunno. My name is Riley Norton.
+
+Business: People like having friends; this is going to take off for sure.
+
+Legal: We have to make sure to protect ourselves from legal liability regarding what happens at the events. 
+  We've also got some great ideas to help people be safe and protected at anonymous events.
+  Might need to make an LLC before we launch.
+
+Technical: I'll have to learn Flutter, but I've got experience building REST APIs in production environments, so the backend should be pretty straightforward.
