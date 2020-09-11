@@ -1,9 +1,7 @@
-I hear this Jacob guy is pretty cool, I dunno. My name is Riley Norton.
+My name is Riley Norton.
 
-Business: People like having friends; this is going to take off for sure.
+Business: I think once there is an effective Covid-19 vaccine there will be heightened interest in in-person gatherings and meeting new people (though there has of course always been interest). Lots of my friends have expressed desire to have a nice way to meet friends in a way that is safe and spontaneous. Jacob and I have already had discussions about good ways to make this a fun and engaging experience while promoting the safety of people who don't know each other.
 
-Legal: We have to make sure to protect ourselves from legal liability regarding what happens at the events. 
-  We've also got some great ideas to help people be safe and protected at anonymous events.
-  Might need to make an LLC before we launch.
+Legal: I don't know very much about the legal process of making a business, but that's something I'm excited to learn when we get ready to launch. Looks like we'll probably have to set up an LLC in Utah. We also have to make sure to protect ourselves from legal liability regarding what happens at the events. There are other small social media apps (Mutual, etc.) that have been able to set up something like this without legal trouble. If there are issues we could even reach out to the Mutual team, I know they are BYU alumni.
 
-Technical: I'll have to learn Flutter, but I've got experience building REST APIs in production environments, so the backend should be pretty straightforward.
+Technical: I'll have to learn Flutter, but I've got experience building REST APIs in production environments, so the backend should be pretty straightforward. We'd have to discuss wether we want to use a cloud-native environment or rent Ubuntu boxes or something. There are a lot of open-source tools that facilitate mobile and web app development, so we won't have to do a lot of reinventing the wheel. Should be fun!
